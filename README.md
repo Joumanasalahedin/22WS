@@ -2,6 +2,7 @@
 
 We Love GIT!
 
-##Subtitle 1
+## Subtitle 1
 
 Testing
+
